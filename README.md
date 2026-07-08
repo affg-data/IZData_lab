@@ -1,4 +1,4 @@
-# IZ Data Lab
+# IZData Lab
 
 ## Overview
 
