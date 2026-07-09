@@ -12,7 +12,7 @@ This project visualizes the global destinations of crude oil transported through
 
 ## What the Visualization Shows
 
-<p align="center">
+<p align="left">
   <img src="Oil_Flows_Through_the_Strait_of_Hormuz.png" width="850">
 </p>
 
