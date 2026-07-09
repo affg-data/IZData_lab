@@ -2,6 +2,10 @@
 
 This analysis examines one of the most important drivers of crypto market cycles: **liquidity**.
 
+<p align="left">
+  <img src="bitcoin_vs_stablecoin_liquidity.png" width="850">
+</p>
+
 ## What the Series Mean
 
 - 🟠 **Bitcoin Price** – The market price of Bitcoin (BTC).
