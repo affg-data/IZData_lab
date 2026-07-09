@@ -12,6 +12,10 @@ This project explores the historical relationship between Bitcoin prices and U.S
 
 ## What the Visualization Shows
 
+<p align="left">
+  <img src="Bitcoin_vs_TIPS.png" width="850">
+</p>
+
 The chart compares:
 
 - 🟠 **Bitcoin Price** – The market price of Bitcoin (BTC).
